@@ -3,7 +3,7 @@
 ### Olá! Eu sou o Matheus Ferreira 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https:/www.linkedin.com/in/matheushfr)
-[![Blog](https://img.shields.io/website-up-Matheus.fdev.com-green-red/http/cv.lbesson.qc.to.svgSite:)](https://https://matheusfdev.netlify.app/#inicio)
+[![Blog](https://img.shields.io/website-up-Matheusfdev.netlify.app-green-red/http/cv.lbesson.qc.to.svgSite:)](https://https://matheusfdev.netlify.app/#inicio)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/matheus_hfr)
 
 ![MatheusHFR GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus&show_icons=true&theme=dracula)
